@@ -22,7 +22,6 @@ public class Starter {
 		list.add("4");
 		list.add("5");
 		list.add("6");
-		list.add("77");
 	
 		for (String string : list) {
 			System.out.println(string);
