@@ -21,7 +21,7 @@ public class TestUdemy {
 		}
 
 		if(true)
-		throw new Exception();
+//		throw new Exception();
 
 		System.out.println(a);
 
