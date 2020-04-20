@@ -14,16 +14,17 @@ public class TestUdemy {
 
 		list.add("-");
 		list.add("A");
+		list.add("A");
 		list.add(".");
 
 		for (int i = 0; ++i < list.size();) {
 			a += list.get(i);
 		}
 
-		if(true)
+		if (true)
 //		throw new Exception();
 
-		System.out.println(a);
+			System.out.println(a);
 
 	}
 
