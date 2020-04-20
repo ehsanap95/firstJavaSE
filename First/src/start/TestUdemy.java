@@ -13,8 +13,8 @@ public class TestUdemy {
 		List<String> list = new ArrayList<String>();
 
 		list.add("-");
-		list.add("A");
-		list.add("A");
+		list.add("A");//avalin
+		list.add("B");
 		list.add(".");
 
 		for (int i = 0; ++i < list.size();) {
