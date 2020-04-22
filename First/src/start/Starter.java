@@ -3,6 +3,11 @@ package start;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * 
+ * @author ehsanap95
+ *contenrt`
+ */
 public class Starter {
 
 	private int a;
@@ -13,7 +18,8 @@ public class Starter {
 		String b;
 	
 		System.out.println("Start Java From Linux");
-	
+	`
+		
 		List<String> list = new ArrayList<String>();
 	
 		list.add("1");
