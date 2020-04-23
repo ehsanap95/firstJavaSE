@@ -18,7 +18,7 @@ public class Starter {
 		String b;
 	
 		System.out.println("Start Java From Linux");
-	`
+	
 		
 		List<String> list = new ArrayList<String>();
 	
